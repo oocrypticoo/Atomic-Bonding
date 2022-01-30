@@ -2,7 +2,6 @@ web3
 pyperclip
 voila
 ens
-re
 json
 time
 math
