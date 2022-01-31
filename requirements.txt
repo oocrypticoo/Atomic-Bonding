@@ -1,5 +1,4 @@
 pyperclip
 voila
-ens
 ipywidgets
 web3==5.26.0
