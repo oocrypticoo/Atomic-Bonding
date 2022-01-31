@@ -2,3 +2,4 @@ pyperclip
 voila
 ipywidgets
 web3==5.26.0
+voila-material
